@@ -177,7 +177,7 @@ mediassist-ai/
 ├── prompt.py                   # LLM prompt templates
 ├── main.py                     # CLI interface (optional)
 │
-├── resources/
+├── resources/                  # This folder will be created once you run the code
 │   ├── vectorstore/            # ChromaDB persistent storage
 │   └── cache/                  # Query cache storage
 │
